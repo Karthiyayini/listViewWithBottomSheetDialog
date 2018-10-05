@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/grajendran/.android/build-cache/825b17f398bc64143d9185b1aed22472486e6399/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/home/grajendran/Karthiyayini/ListViewWithBottomSheetDialog/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ecac172df3cf5b2bde34998afe875ae8deac36e4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/grajendran/Android_SDK/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/home/grajendran/Karthiyayini/ListViewWithBottomSheetDialog/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.3.0_4f0058c0490e25cbcf2c3516e95cf3e7041f33bd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/grajendran/Karthiyayini/ListViewWithBottomSheetDialog/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/home/grajendran/Karthiyayini/ListViewWithBottomSheetDialog/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_51017483f939ac92ad88c595093f4946f3234b93/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/grajendran/.android/build-cache/3119bbf0927d448fdf622ed28c82a6e061ab1958/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/home/grajendran/Karthiyayini/ListViewWithBottomSheetDialog/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_47a50a3df50c1525a70194ff3e4038d363c54e28/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/grajendran/.android/build-cache/cbd939b69449bec145867b30e7fa6231d2d177ac/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="/home/grajendran/Karthiyayini/ListViewWithBottomSheetDialog/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c45baf98d4a93cf4158f86539e80af15b717b374/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/grajendran/Karthiyayini/ListViewWithBottomSheetDialog/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8e28babb6574a66e784cfd0fbb5688a0a21802ed">
+        <dex dex="/home/grajendran/Karthiyayini/ListViewWithBottomSheetDialog/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_3637935e352abaec9ef8c16d84f76b4ad1cc6a2e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/grajendran/.android/build-cache/003d5d6fc7430699a85b1c68af3ee60bcf6e4fac/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/home/grajendran/Karthiyayini/ListViewWithBottomSheetDialog/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_de8ac516dfb6922e5238d8381912554608c5b678/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/grajendran/.android/build-cache/68454304a446c54f2dcbe6e6927d0dd5768c9aa7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/home/grajendran/Karthiyayini/ListViewWithBottomSheetDialog/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8d94d91fab2412f9b5ff95bf029c724cfce9747d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/grajendran/.android/build-cache/68454304a446c54f2dcbe6e6927d0dd5768c9aa7/output/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/home/grajendran/Karthiyayini/ListViewWithBottomSheetDialog/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_48a8922da35ef3ecfce248a1d79ac1090cca8241/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/grajendran/.android/build-cache/b56dcb76eab03ce21185a3d4a3859efac8ea26fb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="/home/grajendran/Karthiyayini/ListViewWithBottomSheetDialog/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8f9bdb8a023823fed76a652e711fd59b06a897b0/classes.dex" />
+    </item>
+
+</items>
